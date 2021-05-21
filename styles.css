@@ -1,0 +1,108 @@
+.top-container {
+  background-color: #edffec;
+
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 150%;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  margin: 20px auto 0 auto;
+  line-height: 1;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Texturina', serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Texturina', serif;
+}
+
+.top-cloud {
+  margin: 0 0 0 400px;
+  padding: 25px 0 0 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.head {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Texturina', serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.highlight {
+  text-decoration: underline;
+}
+.skill-row{ margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.time-aligm{ line-height: 2;
+
+
+}
+.chillies{
+  float: left;
+  margin: 0 50px 50px 0;
+  width: 25%;
+
+}
+.computer{
+  float: right;
+  margin: 50px 0 50px 50px;
+  width: 25%;
+}
+.contact-me{
+  position:relative;
+
+}
+.line{
+      position: relative;
+       top: 50px}
+
+hr{ border-style: none;
+
+    border-top-style: dotted;
+    border-width: 8px;
+    background-color: white;
+    color: grey;
+
+  width: 10%;
+
+}
+.btn{ background-color: #66BFBF;
+      color: black;
+      border: 0;}
+.bottom-container{ background-color: #66BFBF;
+                    color: black;
+                    margin: 0;
+                    padding: 20px 0 20px 0;                   ;
+   }
+   .footer-link{color: black;
+   margin-bottom: 0;}
+.size{  font-size: small;
+        color: white;
+      margin-bottom: 0;
+
+    }
